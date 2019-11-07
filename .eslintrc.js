@@ -10,6 +10,7 @@ module.exports = {
     'space-before-function-paren': ['error', 'never'],
     'linebreak-style': 0,
     'eol-last': 0,
+    'no-console':'off',
   },
   parserOptions: {
     parser: 'babel-eslint',
