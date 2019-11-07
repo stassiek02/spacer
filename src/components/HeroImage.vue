@@ -24,7 +24,7 @@ export default {
 .heroImage::after {
   content: '';
   background: black;
-  opacity: .25;
+  opacity: 0.25;
   position: absolute;
   top: 0;
   left: 0;
